@@ -53,17 +53,14 @@ body {
     right: 0;
     width: 30px;
     height: 30px;
-    background-color: #1DA1F2;
-    border-radius: 50%;
-    padding: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .verified-badge img {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     object-fit: contain;
 }
 
